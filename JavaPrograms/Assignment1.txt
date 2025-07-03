@@ -1,0 +1,25 @@
+1)WAP to find area of a circle double PI = 3.14; area = PI * radius * radius;
+2)WAP to check whether the given age is major(>=18) or minor Note: If the given age is <0 then display "Invalid Age"
+3)WAP to find biggest of given three numbers using conditional operator (?)
+4)WAP to accept item number, item name, rate, and quantity. Find price (rate * qty).
+   If (price >= 1000 && price < 2000), discount is 10% on price
+   If (price >= 2000 && price < 3000), discount is 15% on price
+   If (price >= 3000 && price < 5000), discount is 20% on price
+   If (price >= 5000), discount is 25% on price
+   Calculate net price (price - discount).
+   Display item number, item name, price, discount, and net price.
+5)WAP to check whether the given char is vowel or consonant (switch)
+6)WAP to find sumEven=0, sumOdd=0; and sum of even numbers and sum of odd numbers from 1 to 100
+7)WAP to find smallest of given 10 numbers
+8)WAP to find sum of digits of a given number (n = 1234)
+9)WAP to display the following output
+     Number Factorial
+     1 1
+     2 2
+     3 6
+     4 24
+     5 120
+     Sum = 153
+10)WAP to display multiplication tables from 1 to 10
+11)WAP to check whether the given number is Prime or not
+12)WAP to find sum of prime numbers from 2 to 100
