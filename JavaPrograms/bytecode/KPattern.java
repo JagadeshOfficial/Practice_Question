@@ -8,7 +8,7 @@ class product
 	product(int pid, String pname, double psal)
 	{
 		this.pid = pid;
-		this.pname = pname;
+		this.pname = pname; 
 		this.psal = psal;
 		
 	}
